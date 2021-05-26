@@ -6,7 +6,8 @@ int main (void)
 	int y = 0;
 int result = 0; 	
 	
-	result = Sum(5,2);
+	result = Sum(6,2);
+	result = sum (5,2);
 	
 	printf("result=%d",result);
 	
