@@ -1,0 +1,1 @@
+gcc -o sum main.o sum.o	
